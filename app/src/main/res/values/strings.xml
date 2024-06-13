@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pr17.1</string>
+    <string name="chose_a">Выбор действия</string>
+    <string name="chose_mes">Выберите действие</string>
+    <string name="save_a">Сохранить</string>
+    <string name="uspeh">Успешно</string>
+    <string name="save_mes">Успешное сохранение</string>
+    <string name="etc">Продолжить</string>
+    <string name="load">Загрузить</string>
+</resources>
